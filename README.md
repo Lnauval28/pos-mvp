@@ -8,6 +8,7 @@ Sistem Point of Sales (POS) sederhana sebagai MVP untuk latihan dan pengembangan
 - Lihat stok
 - Proses transaksi
 - Histori penjualan
+- Sistem poin
 
 ## Teknologi yang digunakan:
 
